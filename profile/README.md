@@ -8,7 +8,7 @@ Our work spans emotional computing, professional network architecture, and sanct
 
 | Project | Status | Purpose |
 |--------|:------:|--------|
-| **MycelNode** | Live | A Resonance-Based Personal Knowledge OS that reorganizes documents by emotional cadence and contextual resonance rather than folders or filenames |
+| **MycelNode** | Concept Development | A Resonance-Based Personal Knowledge OS that reorganizes documents by emotional cadence and contextual resonance rather than folders or filenames |
 | **Alchemarium** | Concept Development | A new model for professional networking where innovators, creators, and leaders connect through originality instead of algorithmic sameness. A platform for collaboration aligned with creative integrity |
 | **Avis Sanctum** | Early Research | A digital sanctuary designed for reflection, calm, and creative renewal, with the long-term intention of manifesting as a physical retreat space where art, nature, and community intersect |
 

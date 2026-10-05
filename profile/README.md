@@ -26,7 +26,7 @@ Advenavis is a product studio building consent-driven technology that adapts to 
 | Project | Status | What it is |
 |---|:---:|---|
 | **Class Atlas** | Live | An enrichment education platform built for a client. |
-| **Taxes with Tracy** | Beta | Nonprofit compliance tools, built with a collaborator. |
+| **BeGoodStanding** | Beta | Nonprofit compliance tools, built with a collaborator. |
 | **Case Screen** | Beta, paused | Legal screening tools built for a client. |
 
 ### How We Build
